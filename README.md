@@ -21,27 +21,50 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ## Provided Mock-up Dashboard
 <p align="center">
-    <img src="" width="600">
+    <img src="https://github.com/amoghsawant17/AtliQ_Hospitality_Analysis/blob/main/Snapshots/mock%20up%20dashboard_atliq%20grands.png" width="600">
 </p>
 
 
 ## Data Model
 
 <p align="center">
-    <img src='' height="400">
+    <img src='https://github.com/amoghsawant17/AtliQ_Hospitality_Analysis/blob/main/Snapshots/snap_data_model.png' height="400">
 </p>
 
+## Home View
+
+<p align="center">
+    <img src='https://github.com/amoghsawant17/AtliQ_Hospitality_Analysis/blob/main/Snapshots/snap_home.png' width="600">
+</p>
 
 ## Overall Analysis View
 
 <p align="center">
-    <img src='' width="600">
+    <img src='https://github.com/amoghsawant17/AtliQ_Hospitality_Analysis/blob/main/Snapshots/snap_overall.png' width="600">
 </p>
 
-## Monthly Analysis View
+## Capacity Optimization View
 
 <p align="center">
-    <img src='' width="600">
+    <img src='https://github.com/amoghsawant17/AtliQ_Hospitality_Analysis/blob/main/Snapshots/snap_capacity.png' width="600">
+</p>
+
+## Booking Performance View
+
+<p align="center">
+    <img src='https://github.com/amoghsawant17/AtliQ_Hospitality_Analysis/blob/main/Snapshots/snap_booking.png' width="600">
+</p>
+
+## Support View
+
+<p align="center">
+    <img src='https://github.com/amoghsawant17/AtliQ_Hospitality_Analysis/blob/main/Snapshots/snap_support.png' width="600">
+</p>
+
+## Feedback View
+
+<p align="center">
+    <img src='https://github.com/amoghsawant17/AtliQ_Hospitality_Analysis/blob/main/Snapshots/snap_feedback.png' width="600">
 </p>
 
 ## Learnt things from this Project 
