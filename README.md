@@ -37,7 +37,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
     <img src='https://github.com/amoghsawant17/AtliQ_Hospitality_Analysis/blob/main/Snapshots/snap_home.png' width="600">
 </p>
 
-## Overall Analysis View
+## Overview
 
 <p align="center">
     <img src='https://github.com/amoghsawant17/AtliQ_Hospitality_Analysis/blob/main/Snapshots/snap_overall.png' width="600">
@@ -65,6 +65,12 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 <p align="center">
     <img src='https://github.com/amoghsawant17/AtliQ_Hospitality_Analysis/blob/main/Snapshots/snap_feedback.png' width="600">
+</p>
+
+## Attribution View
+
+<p align="center">
+    <img src='https://github.com/amoghsawant17/AtliQ_Hospitality_Analysis/blob/main/Snapshots/snap_attribute.png' width="600">
 </p>
 
 ## Learnt things from this Project 
