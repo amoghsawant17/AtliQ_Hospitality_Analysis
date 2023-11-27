@@ -1,5 +1,5 @@
-# AtliQ Hospitality Analysis - PowerBI
-In this Data Analysis project, I have studied a dataset related to the hospitality domain. AtliQ Grands is one of the prominent hotel chains in this industry. I have analyzed their hotel bookings and capacity data. And, I created a PowerBI dashboard for Data Visualization.
+# AtliQ Hospitality Analysis - Power BI
+In this Data Analysis project, I have studied a dataset related to the hospitality domain. AtliQ Grands is one of the prominent hotel chains in this industry. I have analyzed their hotel bookings and capacity data. And, I created a Power BI dashboard for Data Visualization.
 
 Link to [Interactive Dashboard]()
 
