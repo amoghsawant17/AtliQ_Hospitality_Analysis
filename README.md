@@ -99,7 +99,6 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - Occupancy % is higher on weekends compared to weekdays among all categories and all hotels.
 - The Delhi region has the highest occupancy % (60%) and highest average rating (3.78) among all regions.
 - Revenue loss due to cancellation is highest i.e., (114 Million ₹) in the Mumbai region, and lowest i.e., (51 Million ₹) in the Delhi region.
-- Mumbai region is generating revenues in the range of 20 to 30 Million ₹, Bangalore and Hyderabad regions each are generating revenues in the range of 10 to 20 Million ₹ and the Delhi region is generating revenues in the range of 10 to 12 Million ₹.
 - Revenues are higher in the luxury category i.e., around 80 Million ₹ compared to the business category i.e., around 50 Million.
 - ADR is higher in the business category i.e., around ₹ 13000 compared to the luxury category i.e., around ₹ 12500.
 - Total bookings are higher in the luxury category i.e., around 5000 to 6000 compared to total bookings in the business category which are around 3000 to 4000.
@@ -117,9 +116,6 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 #### Promote AtliQ Exotica:
 - Leverage the success of AtliQ Exotica by increasing marketing efforts and promotions to attract more customers. Highlight its high revenue, positive rating, and occupancy rate to drive more bookings.
-
-#### Optimize Pricing Strategies:
-- Adjust pricing strategies in Mumbai to ensure revenues remain in the higher range. In regions like Delhi, where revenues are consistent, maintain pricing strategies to sustain profitability.
 
 #### Diversify Booking Platforms:
 - While bookings through other modes are the highest, consider diversifying and strengthening partnerships with other platforms like MakeYourTrip, Log Trip, and Direct Online to increase booking channels.
