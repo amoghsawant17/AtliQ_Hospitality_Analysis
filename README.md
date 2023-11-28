@@ -73,6 +73,16 @@ You are a data analyst who has been provided with sample data and a mock-up dash
     <img src='https://github.com/amoghsawant17/AtliQ_Hospitality_Analysis/blob/main/Snapshots/snap_attribute.png' width="600">
 </p>
 
+#### Week-on-Week (WoW) 
+- It is a type of business metric that measures changes in a specific variable over a period of one week compared to the previous week. It is a common way of tracking business performance over time and is particularly useful for analyzing trends and identifying areas where improvements can be made.
+- Here are the metrics for which I found the WoW change%:
+1. Revenue WoW change %: To get the revenue change percentage week over week.
+2. Occupancy WoW change %: To get the occupancy change percentage week over week.
+3. ADR WoW change %: To get the ADR (Average Daily rate) change percentage week over week.
+4. RevPAR WoW change %: To get the RevPAR (Revenue Per Available Room) change percentage week over week.
+5. Realisation WoW change %: To get the Realisation change percentage week over week.
+6. DSRN WoW change %: To get the DSRN (Daily Sellable Room Nights) change percentage week over week.
+
 ## Learnt things from this Project 
 - By referring to the different cancellation policies of different hotels, I understood that most of the hotels charge zero fees, only if the booking is canceled before three months of the arrival date. If the booking is canceled after that, the charges range from 60 to 90% of the booking cost.
 - I Learned, how to use bookmarks and selection for different purposes. (Page navigation and a clear filter button in the dashboard were achieved using bookmarks and selection same as a website page navigation.
