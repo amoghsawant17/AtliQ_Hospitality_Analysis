@@ -75,7 +75,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 #### Week-on-Week (WoW) 
 - It is a type of business metric that measures changes in a specific variable over a period of one week compared to the previous week. It is a common way of tracking business performance over time and is particularly useful for analyzing trends and identifying areas where improvements can be made.
-- Here are the metrics for which I found the WoW change%:
+- Here are the metrics for which I found the WoW change %:
 1. Revenue WoW change %: To get the revenue change percentage week over week.
 2. Occupancy WoW change %: To get the occupancy change percentage week over week.
 3. ADR WoW change %: To get the ADR (Average Daily rate) change percentage week over week.
@@ -95,7 +95,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - AtliQ Bay has the highest occupancy % of 66%.
 - Week 24 recorded the highest revenue amongst all, which was 139.6 Million ₹.
 - AtliQ lost around 298 Million ₹ in revenue in cancellation.
-- Bookings made through others mode is the highest i.e., (54,000) among all platforms followed by makeyourtrip, log trip, and direct online.
+- Bookings made through others mode is the highest i.e., (54,000) among all platforms followed by make your trip, log trip, and direct online.
 - Occupancy % is higher on weekends compared to weekdays among all categories and all hotels.
 - The Delhi region has the highest occupancy % (60%) and highest average rating (3.78) among all regions.
 - Revenue loss due to cancellation is highest i.e., (114 Million ₹) in the Mumbai region, and lowest i.e., (51 Million ₹) in the Delhi region.
@@ -103,9 +103,56 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - Revenues are higher in the luxury category i.e., around 80 Million ₹ compared to the business category i.e., around 50 Million.
 - ADR is higher in the business category i.e., around ₹ 13000 compared to the luxury category i.e., around ₹ 12500.
 - Total bookings are higher in the luxury category i.e., around 5000 to 6000 compared to total bookings in the business category which are around 3000 to 4000.
-- DURN are higher in the luxury category i.e., around 550 to 600 compared to DURN in the business category which are around 350 to 400.
+- DURN are higher in the luxury category i.e., around 550 to 600 compared to DURN in the business category which is around 350 to 400.
 - Revenue loss due to cancellations is higher in the luxury category i.e., 12 to 15 Million ₹ compared to the business category which is 7 to 10 Million ₹.
 - Elite room class is the most preferred room class and it attracts the highest % of bookings i.e., 36%.
 - DSRN available are around 2000 on weekdays compared to around 1000 on weekends.
 - Revenue loss due to cancellations is reduced over three months from 102 Million ₹ in May to 95 Million ₹ in July.
 - AtliQ Blu is the highest rated (4) hotel among all hotels and AtliQ Seasons is the lowest rated (2.3) hotel among all hotels.
+ 
+## Potential Decisions
+
+#### Address Cancellation Issues:
+- Focus on reducing cancellations in the Mumbai region, where the revenue loss is the highest. Implement strategies such as flexible cancellation policies or targeted marketing to mitigate cancellations.
+
+#### Promote AtliQ Exotica:
+- Leverage the success of AtliQ Exotica by increasing marketing efforts and promotions to attract more customers. Highlight its high revenue, positive rating, and occupancy rate to drive more bookings.
+
+#### Optimize Pricing Strategies:
+- Adjust pricing strategies in Mumbai to ensure revenues remain in the higher range. In regions like Delhi, where revenues are consistent, maintain pricing strategies to sustain profitability.
+
+#### Diversify Booking Platforms:
+- While bookings through other modes are the highest, consider diversifying and strengthening partnerships with other platforms like MakeYourTrip, Log Trip, and Direct Online to increase booking channels.
+
+#### Weekend Promotions:
+- Capitalize on the higher occupancy rates on weekends by introducing special weekend promotions or packages to attract more guests during this period.
+
+#### Enhance Business Category:
+- Despite lower revenues, focus on improving the business category by increasing marketing efforts, improving amenities, or offering special business-related packages to attract more bookings.
+
+#### Manage Luxury Category:
+- While the luxury category generates higher revenue, address the higher cancellation rates. Implement measures to reduce cancellations, such as loyalty programs or exclusive offers for luxury bookings.
+
+#### Room Class Strategies:
+- Continue to promote the Elite Room class due to its popularity. Consider introducing special offers or incentives for other room classes to diversify bookings.
+
+#### Optimize DURN:
+- Analyze and optimize the duration of stays (DURN) by implementing strategies such as offering extended stay packages or incentives for longer bookings.
+
+#### Dynamic Pricing:
+- Implement dynamic pricing strategies based on occupancy levels, ratings, and other factors to maximize revenue during peak periods.
+
+#### Customer Satisfaction Improvement:
+- Address the low-rated AtliQ Seasons by identifying and resolving issues contributing to the low rating. Continuously monitor and improve customer satisfaction across all hotels.
+
+#### Monitor Seasonal Trends:
+- Stay vigilant about seasonal trends and adjust marketing and operational strategies accordingly to capitalize on peak seasons and minimize losses during slower periods.
+
+#### Review and Adjust ADR:
+- Continuously review and adjust the Average Daily Rate (ADR) to find the optimal balance between revenue and occupancy, considering the different categories and regions.
+
+#### Capacity Planning:
+- Adjust room availability based on demand, especially during weekdays when DSRN is higher. This can help optimize resources and improve revenue management.
+
+#### Continuous Monitoring:
+- Implement a system for continuous monitoring and analysis of key performance indicators to adapt strategies in real time based on changing market conditions and customer behaviors.
