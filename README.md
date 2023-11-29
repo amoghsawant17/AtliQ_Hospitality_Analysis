@@ -91,7 +91,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Some Important insights from the Dashboard
 
 - Mumbai region has the highest revenue generated (660 Million ₹) among all regions.
-- AtliQ Exotica performs better compared to all 7 types of properties with revenue of 320 Million ₹, rating of 3.62, occupancy % of 57%, and cancellation rate of 24.4%.
+- AtliQ Exotica performs better compared to all 7 types of properties with revenue of 316.5 Million ₹, rating of 3.62, occupancy % of 57%, and cancellation rate of 24.4%.
 - AtliQ Bay has the highest occupancy % of 66%.
 - Week 24 recorded the highest revenue amongst all, which was 139.6 Million ₹.
 - AtliQ lost around 298 Million ₹ in revenue in cancellation.
