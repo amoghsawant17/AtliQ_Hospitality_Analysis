@@ -2,6 +2,7 @@
 In this Data Analysis project, I have studied a dataset related to the hospitality domain. AtliQ Grands is one of the prominent hotel chains in this industry. I have analyzed their hotel bookings and capacity data. And, I created a Power BI dashboard for Data Visualization.
 
 - Link to [Portfolio Website](https://codebasics.io/portfolio/Amogh-Sawant)
+- Link to [Live Dashboard](https://www.novypro.com/project/hospitality-analysis-17)
 - Link to [Presentation Video]()
 
 ## Problem statement
