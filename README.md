@@ -92,9 +92,9 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 - Mumbai region has the highest revenue generated (660 Million ₹) among all regions.
 - AtliQ Exotica performs better compared to all 7 types of properties with revenue of 316.5 Million ₹, rating of 3.62, occupancy % of 57%, and cancellation rate of 24.4%.
-- AtliQ Bay has the highest occupancy % of 66%.
-- Week 24 recorded the highest revenue amongst all, which was 139.6 Million ₹.
-- AtliQ lost around 298 Million ₹ in revenue in cancellation.
+- AtliQ Blu has the highest occupancy % of 61.9%.
+- Week 29 recorded the highest revenue amongst all, which was 139.7 Million ₹.
+- AtliQ lost around 295 Million ₹ in revenue due to cancellations.
 - Bookings made through others mode is the highest i.e., (54,000) among all platforms followed by make your trip, log trip, and direct online.
 - Occupancy % is higher on weekends compared to weekdays among all categories and all hotels.
 - The Delhi region has the highest occupancy % (60%) and highest average rating (3.78) among all regions.
