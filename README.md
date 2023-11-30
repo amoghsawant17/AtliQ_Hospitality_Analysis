@@ -40,19 +40,19 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Overview
 
 <p align="center">
-    <img src='https://github.com/amoghsawant17/AtliQ_Hospitality_Analysis/blob/main/Snapshots/snap_overall.png' width="600">
+    <img src='https://github.com/amoghsawant17/Revenue_Insights_Hospitality/blob/main/Snapshots/snap_overall.png' width="600">
 </p>
 
 ## Capacity Optimization View
 
 <p align="center">
-    <img src='https://github.com/amoghsawant17/AtliQ_Hospitality_Analysis/blob/main/Snapshots/snap_capacity.png' width="600">
+    <img src='https://github.com/amoghsawant17/Revenue_Insights_Hospitality/blob/main/Snapshots/snap_capacity.png' width="600">
 </p>
 
 ## Booking Performance View
 
 <p align="center">
-    <img src='https://github.com/amoghsawant17/AtliQ_Hospitality_Analysis/blob/main/Snapshots/snap_booking.png' width="600">
+    <img src='https://github.com/amoghsawant17/Revenue_Insights_Hospitality/blob/main/Snapshots/snap_booking.png' width="600">
 </p>
 
 ## Support View
@@ -70,7 +70,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Attribution View
 
 <p align="center">
-    <img src='https://github.com/amoghsawant17/AtliQ_Hospitality_Analysis/blob/main/Snapshots/snap_attribute.png' width="600">
+    <img src='https://github.com/amoghsawant17/Revenue_Insights_Hospitality/blob/main/Snapshots/snap_attribute.png' width="600">
 </p>
 
 #### Week-on-Week (WoW) 
