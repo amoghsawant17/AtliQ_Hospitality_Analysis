@@ -3,7 +3,6 @@ In this Data Analysis project, I have studied a dataset related to the hospitali
 
 - Link to [Portfolio Website](https://codebasics.io/portfolio/Amogh-Sawant)
 - Link to [Live Dashboard](https://www.novypro.com/project/hospitality-analysis-17)
-- Link to [Presentation Video]()
 
 ## Problem statement
 
@@ -34,19 +33,19 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Home View
 
 <p align="center">
-    <img src='' width="600">
+    <img src='https://github.com/amoghsawant17/Revenue_Insights_Hospitality/blob/main/Snapshots/snap_home.png' width="600">
 </p>
 
 ## Overview
 
 <p align="center">
-    <img src='' width="600">
+    <img src='https://github.com/amoghsawant17/Revenue_Insights_Hospitality/blob/main/Snapshots/snap_overall.png' width="600">
 </p>
 
 ## Booking Performance View
 
 <p align="center">
-    <img src='' width="600">
+    <img src='https://github.com/amoghsawant17/Revenue_Insights_Hospitality/blob/main/Snapshots/snap_booking.png' width="600">
 </p>
 
 ## Support View
