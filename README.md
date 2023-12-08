@@ -34,25 +34,19 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Home View
 
 <p align="center">
-    <img src='https://github.com/amoghsawant17/AtliQ_Hospitality_Analysis/blob/main/Snapshots/snap_home.png' width="600">
+    <img src='' width="600">
 </p>
 
 ## Overview
 
 <p align="center">
-    <img src='https://github.com/amoghsawant17/Revenue_Insights_Hospitality/blob/main/Snapshots/snap_overall.png' width="600">
-</p>
-
-## Capacity Optimization View
-
-<p align="center">
-    <img src='https://github.com/amoghsawant17/Revenue_Insights_Hospitality/blob/main/Snapshots/snap_capacity.png' width="600">
+    <img src='' width="600">
 </p>
 
 ## Booking Performance View
 
 <p align="center">
-    <img src='https://github.com/amoghsawant17/Revenue_Insights_Hospitality/blob/main/Snapshots/snap_booking.png' width="600">
+    <img src='' width="600">
 </p>
 
 ## Support View
