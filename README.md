@@ -79,8 +79,8 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 2. Occupancy WoW change %: To get the occupancy change percentage week over week.
 3. ADR WoW change %: To get the ADR (Average Daily rate) change percentage week over week.
 4. RevPAR WoW change %: To get the RevPAR (Revenue Per Available Room) change percentage week over week.
-5. Realisation WoW change %: To get the Realisation change percentage week over week.
-6. DSRN WoW change %: To get the DSRN (Daily Sellable Room Nights) change percentage week over week.
+5. Cancellation WoW change %: To get the Cancellation change percentage week over week.
+6. DURN WoW change %: To get the DURN (Daily Utilized Room Nights) change percentage week over week.
 #### ADR 
 - It is the ratio of revenue to the total rooms booked or sold.
 - ADR = Total Revenue/ Total rooms booked or sold
