@@ -95,24 +95,24 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - DURN = Total Checked Out/ Number of days
 
 ## Some Important insights from the Dashboard
-- Mumbai region has the highest revenue generated (660 Million ₹) among all regions.
-- AtliQ Exotica performs better compared to all 7 types of properties with revenue of 316.5 Million ₹, rating of 3.62, occupancy % of 57%, and cancellation rate of 24.4%.
-- AtliQ Blu has the highest occupancy % of 61.9%.
-- Week 29 recorded the highest revenue amongst all, which was 139.7 Million ₹.
-- AtliQ lost around 295 Million ₹ in revenue due to cancellations.
-- Bookings made through others mode is the highest i.e., (54,000) among all platforms followed by make your trip, log trip, and direct online.
-- Occupancy % is higher on weekends compared to weekdays among all categories and all hotels.
-- The Delhi region has the highest occupancy % (60%) and highest average rating (3.78) among all regions.
-- Revenue loss due to cancellation is highest i.e., (114 Million ₹) in the Mumbai region, and lowest i.e., (51 Million ₹) in the Delhi region.
-- Revenues are higher in the luxury category i.e., around 80 Million ₹ compared to the business category i.e., around 50 Million.
-- ADR is higher in the business category i.e., around ₹ 13000 compared to the luxury category i.e., around ₹ 12500.
-- Total bookings are higher in the luxury category i.e., around 5000 to 6000 compared to total bookings in the business category which are around 3000 to 4000.
-- DURN are higher in the luxury category i.e., around 550 to 600 compared to DURN in the business category which is around 350 to 400.
-- Revenue loss due to cancellations is higher in the luxury category i.e., 12 to 15 Million ₹ compared to the business category which is 7 to 10 Million ₹.
-- Elite room class is the most preferred room class and it attracts the highest % of bookings i.e., 36%.
-- DSRN available are around 2000 on weekdays compared to around 1000 on weekends.
-- Revenue loss due to cancellations is reduced over three months from 102 Million ₹ in May to 95 Million ₹ in July.
-- AtliQ Blu is the highest rated (4) hotel among all hotels and AtliQ Seasons is the lowest rated (2.3) hotel among all hotels.
+- Mumbai region has generated the highest revenue (660 Million ₹) among all regions.
+- AtliQ Exotica outperforms all seven types of properties with a revenue of 316.5 Million ₹, a rating of 3.62, an occupancy rate of 57%, and a cancellation rate of 24.4%.
+- AtliQ Blu boasts the highest occupancy rate of 61.9%.
+- Week 29 recorded the highest revenue among all weeks, totaling 139.7 Million ₹.
+- AtliQ suffered a revenue loss of around 295 Million ₹ due to cancellations.
+- Bookings made through other modes are the highest, totaling 54,000, followed by MakeMyTrip, Log Trip, and Direct Online.
+- Occupancy rates are higher on weekends compared to weekdays across all categories and hotels.
+- The Delhi region has the highest occupancy rate (60%) and the highest average rating (3.78) among all regions.
+- The Mumbai region experienced the highest revenue loss due to cancellation, totaling 114 Million ₹, while the Delhi region had the lowest, totaling 51 Million ₹.
+- Revenues are higher in the luxury category, around 80 Million ₹, compared to the business category, around 50 Million ₹.
+- ADR is higher in the business category, around ₹13,000, compared to the luxury category, around ₹12,500.
+- Total bookings are higher in the luxury category, ranging from 5,000 to 6,000, compared to total bookings in the business category, ranging from 3,000 to 4,000.
+- DURN is higher in the luxury category, ranging from 550 to 600, compared to DURN in the business category, which is around 350 to 400.
+- Revenue loss due to cancellations is higher in the luxury category, ranging from 12 to 15 Million ₹, compared to the business category, which is 7 to 10 Million ₹.
+- The Elite room class is the most preferred, attracting the highest percentage of bookings, i.e., 36%.
+- DSRN availability is around 2,000 on weekdays compared to around 1,000 on weekends.
+- Revenue loss due to cancellations has decreased over three months from 102 Million ₹ in May to 95 Million ₹ in July.
+- AtliQ Blu is the highest-rated (4) hotel among all hotels, and AtliQ Seasons is the lowest-rated (2.3) hotel among all hotels.
  
 ## Potential Decisions
 
