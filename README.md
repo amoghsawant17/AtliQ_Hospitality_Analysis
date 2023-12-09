@@ -96,21 +96,20 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ## Some Important insights from the Dashboard
 - Mumbai region has generated the highest revenue (660 Million ₹) among all regions.
-- AtliQ Exotica outperforms all seven types of properties with a revenue of 316.5 Million ₹, a rating of 3.62, an occupancy rate of 57%, and a cancellation rate of 24.4%.
-- AtliQ Blu boasts the highest occupancy rate of 61.9%.
+- AtliQ Exotica outperforms all seven types of properties with a revenue of 316.5 Million ₹, a rating of 3.62, an occupancy rate of 56.5%, and a cancellation rate of 24.4%.
+- AtliQ Blu boasts the highest occupancy rate of 61.3%.
 - Week 29 recorded the highest revenue among all weeks, totaling 139.7 Million ₹.
 - AtliQ suffered a revenue loss of around 295 Million ₹ due to cancellations.
-- Bookings made through other modes are the highest, totaling 54,000, followed by MakeMyTrip, Log Trip, and Direct Online.
+- Bookings made through other modes are the highest, 40.9%, followed by MakeMyTrip, Log Trip, and Direct Online.
 - Occupancy rates are higher on weekends compared to weekdays across all categories and hotels.
 - The Delhi region has the highest occupancy rate (60%) and the highest average rating (3.78) among all regions.
 - The Mumbai region experienced the highest revenue loss due to cancellation, totaling 114 Million ₹, while the Delhi region had the lowest, totaling 51 Million ₹.
-- Revenues are higher in the luxury category, around 80 Million ₹, compared to the business category, around 50 Million ₹.
-- ADR is higher in the business category, around ₹13,000, compared to the luxury category, around ₹12,500.
-- Total bookings are higher in the luxury category, ranging from 5,000 to 6,000, compared to total bookings in the business category, ranging from 3,000 to 4,000.
-- DURN is higher in the luxury category, ranging from 550 to 600, compared to DURN in the business category, which is around 350 to 400.
-- Revenue loss due to cancellations is higher in the luxury category, ranging from 12 to 15 Million ₹, compared to the business category, which is 7 to 10 Million ₹.
-- The Elite room class is the most preferred, attracting the highest percentage of bookings, i.e., 36%.
-- DSRN availability is around 2,000 on weekdays compared to around 1,000 on weekends.
+- Revenues are higher in the luxury category, around 1040 Million ₹, compared to the business category, around 647 Million ₹.
+- ADR is higher in the business category, compared to the luxury category.
+- Total bookings are higher in the luxury category, compared to total bookings in the business category.
+- DURN is higher in the luxury category, compared to DURN in the business category.
+- Revenue loss due to cancellations is higher in the luxury category, compared to the business category.
+- The Elite and Standard room classes are most preferred, attracting the highest percentage of bookings, but the Presidential and Premium room classes have generated the highest ADR and RevPAR among other room classes. 
 - Revenue loss due to cancellations has decreased over three months from 102 Million ₹ in May to 95 Million ₹ in July.
 - AtliQ Blu is the highest-rated (4) hotel among all hotels, and AtliQ Seasons is the lowest-rated (2.3) hotel among all hotels.
  
