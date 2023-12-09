@@ -66,8 +66,14 @@ You are a data analyst who has been provided with sample data and a mock-up dash
     <img src='https://github.com/amoghsawant17/Revenue_Insights_Hospitality/blob/main/Snapshots/snap_attribute.png' width="600">
 </p>
 
+## Learnt things from this Project 
+- By referring to the different cancellation policies of different hotels, I understood that most of the hotels charge zero fees, only if the booking is canceled before three months of the arrival date. If the booking is canceled after that, the charges range from 60 to 90% of the booking cost.
+- I Learned, how to use bookmarks and selection for different purposes. (Page navigation and a clear filter button in the dashboard were achieved using bookmarks and selection same as a website page navigation.
+- Tried using the color palette and sticking with those colors throughout the dashboard ([Color palette link](https://colorhunt.co/palette/0766ad29adb2c5e898f3f3f3))
+
+## Some Key Metrics
 #### Week-on-Week (WoW) 
-- It is a type of business metric that measures changes in a specific variable over a period of one week compared to the previous week. It is a common way of tracking business performance over time and is particularly useful for analyzing trends and identifying areas where improvements can be made.
+- It is a type of business metric that measures changes in a specific variable over one week compared to the previous week. It is a common way of tracking business performance over time and is particularly useful for analyzing trends and identifying areas where improvements can be made.
 - Here are the metrics for which I found the WoW change %:
 1. Revenue WoW change %: To get the revenue change percentage week over week.
 2. Occupancy WoW change %: To get the occupancy change percentage week over week.
@@ -75,14 +81,20 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 4. RevPAR WoW change %: To get the RevPAR (Revenue Per Available Room) change percentage week over week.
 5. Realisation WoW change %: To get the Realisation change percentage week over week.
 6. DSRN WoW change %: To get the DSRN (Daily Sellable Room Nights) change percentage week over week.
-
-## Learnt things from this Project 
-- By referring to the different cancellation policies of different hotels, I understood that most of the hotels charge zero fees, only if the booking is canceled before three months of the arrival date. If the booking is canceled after that, the charges range from 60 to 90% of the booking cost.
-- I Learned, how to use bookmarks and selection for different purposes. (Page navigation and a clear filter button in the dashboard were achieved using bookmarks and selection same as a website page navigation.
-- Tried using the color palette and sticking with those colors throughout the dashboard ([Color palette link](https://colorhunt.co/palette/0766ad29adb2c5e898f3f3f3))
+#### ADR 
+- It is the ratio of revenue to the total rooms booked or sold.
+- ADR = Total Revenue/ Total rooms booked or sold
+#### RevPAR
+- RevPAR represents the revenue generated per available room, whether or not they are occupied. RevPAR helps hotels measure their revenue-generating performance to accurately price rooms. RevPAR can help hotels measure themselves against other properties or brands.
+- RevPAR = Total Revenue/ Total Capacity
+#### DSRN - Daily Sellable Room Nights
+- This metric tells on average how many rooms are ready to sell for a day considering a period.
+- DSRN = Total Capacity/ Number of days
+#### DURN - Daily Utilized Room Nights
+- This metric tells on average how many rooms are successfully utilized by customers for a day considering a period.
+- DURN = Total Checked Out/ Number of days
 
 ## Some Important insights from the Dashboard
-
 - Mumbai region has the highest revenue generated (660 Million ₹) among all regions.
 - AtliQ Exotica performs better compared to all 7 types of properties with revenue of 316.5 Million ₹, rating of 3.62, occupancy % of 57%, and cancellation rate of 24.4%.
 - AtliQ Blu has the highest occupancy % of 61.9%.
