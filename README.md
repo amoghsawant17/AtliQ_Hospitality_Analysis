@@ -97,7 +97,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Some Important insights from the Dashboard
 - Mumbai region has generated the highest revenue (660 Million ₹) among all regions.
 - AtliQ Exotica outperforms all seven types of properties with a revenue of 316.5 Million ₹, a rating of 3.62, an occupancy rate of 56.5%, and a cancellation rate of 24.4%.
-- AtliQ Blu boasts the highest occupancy rate of 61.3%.
+- AtliQ Blu boasts the highest occupancy rate of 61.9%.
 - Week 29 recorded the highest revenue among all weeks, totaling 139.7 Million ₹.
 - AtliQ suffered a revenue loss of around 295 Million ₹ due to cancellations.
 - Bookings made through other modes are the highest, 40.9%, followed by MakeMyTrip, Log Trip, and Direct Online.
@@ -115,44 +115,22 @@ You are a data analyst who has been provided with sample data and a mock-up dash
  
 ## Potential Decisions
 
-#### Address Cancellation Issues:
-- Focus on reducing cancellations in the Mumbai region, where the revenue loss is the highest. Implement strategies such as flexible cancellation policies or targeted marketing to mitigate cancellations.
+1. **Cancellation Policy Optimization:** Evaluate and potentially revise the cancellation policy to reduce revenue loss. Consider implementing stricter cancellation deadlines or offering non-refundable booking options with discounts to encourage commitment.
 
-#### Promote AtliQ Exotica:
-- Leverage the success of AtliQ Exotica by increasing marketing efforts and promotions to attract more customers. Highlight its high revenue, positive rating, and occupancy rate to drive more bookings.
+2. **Marketing Strategy for AtliQ Blu:** Leverage AtliQ Blu's high occupancy rate as a marketing point to attract more customers. Develop targeted marketing campaigns highlighting the unique features and experiences offered at AtliQ Blu to increase bookings.
 
-#### Diversify Booking Platforms:
-- While bookings through other modes are the highest, consider diversifying and strengthening partnerships with other platforms like MakeYourTrip, Log Trip, and Direct Online to increase booking channels.
+3. **Weekday Promotions:** Create targeted promotions to boost weekday bookings, as occupancy rates are higher on weekends. Offer special deals, packages, or discounts for guests booking stays from Monday to Thursday to balance occupancy throughout the week.
 
-#### Weekend Promotions:
-- Capitalize on the higher occupancy rates on weekends by introducing special weekend promotions or packages to attract more guests during this period.
+4. **Address AtliQ Seasons Issues:** Identify and address the issues affecting AtliQ Seasons' low rating. Conduct guest surveys, analyze feedback, and make necessary improvements in service, amenities, and overall guest experience to enhance customer satisfaction.
 
-#### Enhance Business Category:
-- Despite lower revenues, focus on improving the business category by increasing marketing efforts, improving amenities, or offering special business-related packages to attract more bookings.
+5. **Regional Marketing Focus:** Capitalize on the success of the Mumbai region by intensifying marketing efforts in that area. Highlight special offers, partnerships, or events that cater to the preferences and needs of the Mumbai market.
 
-#### Manage Luxury Category:
-- While the luxury category generates higher revenue, address the higher cancellation rates. Implement measures to reduce cancellations, such as loyalty programs or exclusive offers for luxury bookings.
+6. **Diversify Booking Channels:** Explore opportunities to diversify booking channels by expanding partnerships with various online travel agencies (OTAs) and platforms. This can help tap into different customer segments and reduce reliance on a single channel.
 
-#### Room Class Strategies:
-- Continue to promote the Elite Room class due to its popularity. Consider introducing special offers or incentives for other room classes to diversify bookings.
+7. **Revise Pricing Strategy:** Analyze the Average Daily Rate (ADR) in both luxury and business categories. Consider adjusting pricing strategies, such as offering dynamic pricing, seasonal discounts, or loyalty programs, to maximize revenue without compromising occupancy rates.
 
-#### Optimize DURN:
-- Analyze and optimize the duration of stays (DURN) by implementing strategies such as offering extended stay packages or incentives for longer bookings.
+8. **Room Class Optimization:** Evaluate the demand for different room classes and consider adjusting the inventory accordingly. If the Elite and Standard rooms are most preferred, ensure an adequate supply, but also focus on promoting the Presidential and Premium rooms to maximize revenue.
 
-#### Dynamic Pricing:
-- Implement dynamic pricing strategies based on occupancy levels, ratings, and other factors to maximize revenue during peak periods.
+9. **Enhance Direct Booking Experience:** Encourage direct online bookings by improving the user experience on the hotel's website. Implement user-friendly interfaces, exclusive online offers, and loyalty programs to incentivize guests to book directly.
 
-#### Customer Satisfaction Improvement:
-- Address the low-rated AtliQ Seasons by identifying and resolving issues contributing to the low rating. Continuously monitor and improve customer satisfaction across all hotels.
-
-#### Monitor Seasonal Trends:
-- Stay vigilant about seasonal trends and adjust marketing and operational strategies accordingly to capitalize on peak seasons and minimize losses during slower periods.
-
-#### Review and Adjust ADR:
-- Continuously review and adjust the Average Daily Rate (ADR) to find the optimal balance between revenue and occupancy, considering the different categories and regions.
-
-#### Capacity Planning:
-- Adjust room availability based on demand, especially during weekdays when DSRN is higher. This can help optimize resources and improve revenue management.
-
-#### Continuous Monitoring:
-- Implement a system for continuous monitoring and analysis of key performance indicators to adapt strategies in real time based on changing market conditions and customer behaviors.
+10. **Quality Assurance Programs:** Implement quality assurance programs across all hotels to maintain high standards of service. Regularly train and update staff, conduct audits, and invest in amenities or renovations to consistently deliver a positive guest experience, ultimately improving ratings and attracting more bookings.
