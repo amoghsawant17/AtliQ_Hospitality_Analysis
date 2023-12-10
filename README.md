@@ -66,7 +66,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
     <img src='https://github.com/amoghsawant17/Revenue_Insights_Hospitality/blob/main/Snapshots/snap_attribute.png' width="600">
 </p>
 
-## Learnt things from this Project 
+## Things that I learned from this Project
 - By referring to the different cancellation policies of different hotels, I understood that most of the hotels charge zero fees, only if the booking is canceled before three months of the arrival date. If the booking is canceled after that, the charges range from 60 to 90% of the booking cost.
 - I Learned, how to use bookmarks and selection for different purposes. (Page navigation and a clear filter button in the dashboard were achieved using bookmarks and selection same as a website page navigation.
 - Tried using the color palette and sticking with those colors throughout the dashboard ([Color palette link](https://colorhunt.co/palette/0766ad29adb2c5e898f3f3f3))
