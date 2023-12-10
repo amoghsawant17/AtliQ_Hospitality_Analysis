@@ -1,5 +1,5 @@
 # Revenue Insights Hospitality - Power BI
-In this Data Analysis project, I have studied a dataset related to the hospitality domain. AtliQ Grands is one of the prominent hotel chains in this industry. I have analyzed their hotel bookings and capacity data. And, I created a Power BI dashboard for Data Visualization.
+In this impactful project, I delved into the hospitality sector, focusing on AtliQ Grands, a distinguished hotel chain. With a comprehensive analysis of their booking and capacity data, I constructed a Power BI dashboard for insightful data visualization.
 
 - Link to [Portfolio Website](https://codebasics.io/portfolio/Amogh-Sawant)
 - Link to [Live Dashboard](https://www.novypro.com/project/revenue-insights-hospitality-power-bi)
